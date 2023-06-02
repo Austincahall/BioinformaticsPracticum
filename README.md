@@ -5,8 +5,8 @@ The scripts and what they do will be added below
 
 SCRIPTS for gecko book belwo
 
-DeleteRepeatSequences.py 
-this file goes through the database file and removes duplicates for synonyms of all the geckos. it keeps only the oldest recorded use of each synonym. this is then output to a text file
+DeleteRepeatSequences 
+- this file goes through the database file and removes duplicates for synonyms of all the geckos. it keeps only the oldest recorded use of each synonym. this is then output to a text file
 
 Holotyping problem
 - this problem shortening holotyping data for each species in the database. At the time chatGTP was all the rage, so I made regular expressions using chat GPT's help as a 'fun' experiment It worked well and the code is the result.
